@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image]URL:https://www.codewars.com/users/TheGhost44/badges/large
+
 <!--
 **Liam-McLeod/Liam-McLeod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
