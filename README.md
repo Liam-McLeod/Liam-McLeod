@@ -16,23 +16,11 @@ Bachelors of Science in Computer Science at Wilfrid Laurier University.
 
 ## Projects
 
-### [Project Name 1]
-[Brief description of the project, technologies used, and the purpose of the project.]
-- [Link to the project repository](#)
 
-### [Project Name 2]
-[Brief description of the project, technologies used, and the purpose of the project.]
-- [Link to the project repository](#)
-
-### [Project Name 3]
-[Brief description of the project, technologies used, and the purpose of the project.]
-- [Link to the project repository](#)
 
 ## Connect with Me
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Blog](#)
+- [LinkedIn](www.linkedin.com/in/liam-mcleod-5530a9251)
 
 ## Badges
 
