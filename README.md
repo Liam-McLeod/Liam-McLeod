@@ -36,5 +36,5 @@ Bachelors of Science in Computer Science at Wilfrid Laurier University.
 
 ## Badges
 
-![image](https://www.codewars.com/users/TheGhost44/badges/large)
+**CodeWars:** ![image](https://www.codewars.com/users/TheGhost44/badges/large)
 
