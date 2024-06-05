@@ -13,7 +13,7 @@ Bachelors of Science in Computer Science at Wilfrid Laurier University.
 - **Languages:** HTML/CSS JavaScript, Python, PHP, SQL.
 - **Frameworks and Libraries:** Django, Flask.
 - **Tools and Technologies:** Git/Github, Visual Studio Code.
-- 
+  
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/liam-mcleod4)
