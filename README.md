@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Liam Mcleod
+# Hi there! 👋 I'm Liam McLeod
 
 ## About Me
 
@@ -13,14 +13,10 @@ Bachelors of Science in Computer Science at Wilfrid Laurier University.
 - **Languages:** HTML/CSS JavaScript, Python, PHP, SQL.
 - **Frameworks and Libraries:** Django, Flask.
 - **Tools and Technologies:** Git/Github, Visual Studio Code.
-
-## Projects
-
-
-
+- 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/liam-mcleod-5530a9251)
+- [LinkedIn](https://www.linkedin.com/in/liam-mcleod4)
 
 ## Badges
 
