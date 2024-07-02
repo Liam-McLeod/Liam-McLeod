@@ -17,7 +17,7 @@ Bachelors of Science in Computer Science at Wilfrid Laurier University.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/liam-mcleod4)
-
+- [FrontendMentor](https://www.frontendmentor.io/profile/Liam-McLeod)
 ## Badges
 
 **CodeWars:** 
